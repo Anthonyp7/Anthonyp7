@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+```html
 <img src=”https://user-images.githubusercontent.com/94532574/181859312-dc3c797d-be04-4ca9-bc96-9fe19ea36081.jpg" alt=”my banner”>
+```
 
 <!--
 **Anthonyp7/Anthonyp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
