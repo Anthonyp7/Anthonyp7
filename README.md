@@ -3,6 +3,8 @@
 ![Cover](https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg)
 
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />]
+
 <!--
 **Anthonyp7/Anthonyp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
