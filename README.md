@@ -12,7 +12,7 @@
 <img align="left" alt="C#" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Visual Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  <br/><br/><br/>
 
-  
+  ## ⚙️ Git Analytics : 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Anthonyp7&theme=vision-friendly-dark&show_icons=true&how_icons=true)
 
 
