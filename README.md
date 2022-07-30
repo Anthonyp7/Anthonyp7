@@ -2,7 +2,7 @@
 <!-- <center> <h1>Hi there 👋, I'm Anthony</h1></center> -->
 
 ![Cover](https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg)
-<img align="center src="https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg"/>
+<img align="center" src="https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg" />
 
 ## Social :
 <img src="./linkedin.svg"/>[linkedin]
