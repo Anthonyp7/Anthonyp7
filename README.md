@@ -4,6 +4,7 @@
 
 
 <img align="left" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <!--
 **Anthonyp7/Anthonyp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
