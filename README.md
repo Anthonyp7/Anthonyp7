@@ -3,7 +3,7 @@
 ![Cover](https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg)
 
 
-## Languages & Tools :
+## Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>:
 <img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
