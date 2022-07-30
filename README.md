@@ -9,7 +9,7 @@
 <img align="left" alt="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Unity" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img align="left" alt="Visuale Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
+<img align="left" alt="Visuale Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  </space>
 
   
 ![GHstats](https://github-readme-stats.vercel.app/api?username=Anthonyp7&theme=vision-friendly-dark&show_icons=true&how_icons=true)
