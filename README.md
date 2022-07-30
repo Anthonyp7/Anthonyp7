@@ -12,7 +12,7 @@
 <img align="left" alt="Visuale Studio" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 
 
-![GHstats](httpsgithub-readme-stats.vercel.app/api?username=Anthonyp7&how_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=Anthonyp7&how_icons=true)
 
 
 <!--
