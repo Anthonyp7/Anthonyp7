@@ -5,7 +5,7 @@
 
 
 ## Social :
-<img src="C:/Users/apero/Downloads/linkedin.svg"/>[linkedin]
+<img src="./linkedin.svg"/>[linkedin]
 
 [linkedin]: https://www.linkedin.com/in/anthony-perozeni-b6840a233/
 
