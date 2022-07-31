@@ -5,7 +5,7 @@
 <img align="center" src="https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg" width="1000" height="350"/>
 
 ## Social :
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="45px" />[linkedin]
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="45px" />
 
 [linkedin]: https://www.linkedin.com/in/anthony-perozeni-b6840a233/
 
