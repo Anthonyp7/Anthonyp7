@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Anthony</h1>
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&color=6360F7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=True&color=6360F7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
 <!-- ![Cover](https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg) -->
 <img align="center" src="https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg" width="1000" height="350"/>
 
