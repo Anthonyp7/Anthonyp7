@@ -1,29 +1,18 @@
-
 <h1 align="center">Hi there 👋, I'm Anthony</h1>
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=True&color=6360F7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg) -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6F40F7&center=true&vCenter=true&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
-<!-- ![Cover](https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg) -->
+
+
+
 <img align="center" src="https://github.com/Anthonyp7/Anthonyp7/blob/e9455ec6b3cede5bb09ea8dc14d0a858be7b27af/img/5k-scenery-oriental-4k-wallpaper-preview.jpg" width="1000" height="350"/>
 
+
 ## Social :
-<a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img src="https://github.com/Anthonyp7/tassiaaccioly/blob/1778bc327b923343a4c958e4661e1f95f7d5ec88/linkedin.svg" width=45px/>
-</svg></a>
+<a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img align="left" src="https://github.com/Anthonyp7/tassiaaccioly/blob/1778bc327b923343a4c958e4661e1f95f7d5ec88/linkedin.svg" width=45px/></a>
 
-<a href="mailto:anthony.perozeni777@gmail.com"><img src="https://github.com/Anthonyp7/tassiaaccioly/blob/1778bc327b923343a4c958e4661e1f95f7d5ec88/gmail.svg" width=45px/>
-</svg></a>
-
-<!-- <a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img src="https://github.com/Anthonyp7/tassiaaccioly/blob/1778bc327b923343a4c958e4661e1f95f7d5ec88/gmail.svg" width=45px/>
-</svg></a> -->
-
-<!-- 
-<a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="45px" /></a>
-
-<a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="45px" /></a>
-
-<a href="https://www.linkedin.com/in/anthony-perozeni-b6840a233/"><img src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="45px" /></a> -->
-
+<a href="mailto:anthony.perozeni777@gmail.com"><img align="left" src="https://github.com/Anthonyp7/tassiaaccioly/blob/1778bc327b923343a4c958e4661e1f95f7d5ec88/gmail.svg" width=45px/></a> <br/><br/><br/>
 
 
 
